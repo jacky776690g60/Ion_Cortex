@@ -1,0 +1,24 @@
+# cache
+Binaries/
+Intermediate/
+DerivedDataCache/
+
+Build/
+.vs/
+
+#
+Content/
+Saved/
+
+
+# others
+*.log
+*.suo
+*.tmp
+*.bak
+*.swp
+*.kdev4
+*.user*
+*.sublime*
+*.DS_Store
+*.pyc
