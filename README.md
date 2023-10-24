@@ -10,4 +10,6 @@ This is a puzzle solver powered by artificial intelligence.
     Samples
 </h2>
 
+<img alt="" src="samples/sample_1.png"/>
+
 ![sample_0](samples/sampel_1.gif)
