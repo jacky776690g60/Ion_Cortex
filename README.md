@@ -10,6 +10,6 @@ This is a puzzle solver powered by artificial intelligence.
     Samples
 </h2>
 
-<img alt="" src="samples/sample_1.png"/>
+<img alt="" src="samples/sample_1.png" width="600px" />
 
-![sample_0](samples/sampel_1.gif)
+<img alt="" src="samples/sampel_1.gif" width="600px" />
